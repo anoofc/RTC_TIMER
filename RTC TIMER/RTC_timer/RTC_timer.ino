@@ -34,7 +34,7 @@ void loop() {
     digitalWrite(relay, flag);
   }
 
-  // put your main code here, to run repeatedly:
+  
 
 }
 
